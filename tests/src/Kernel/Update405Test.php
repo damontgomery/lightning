@@ -15,7 +15,7 @@ class Update405Test extends KernelTestBase {
   /**
    * {@inheritdoc}
    */
-  protected static $modules = array('system');
+  protected static $modules = ['system'];
 
   /**
    * @covers ::enableAutosaveForm
